@@ -1,0 +1,5 @@
+interface:
+  display_name: "月明·抖音封面批量更新"
+  short_description: "按作品批量替换双比例封面，跳过私密并逐张验收"
+  brand_color: "#39EC88"
+  default_prompt: "使用 $moonlit-douyin-cover-updater 更新这批抖音已有作品的封面，按作品ID匹配3:4和4:3，跳过私密，提交后逐张核验并保存可恢复进度。"

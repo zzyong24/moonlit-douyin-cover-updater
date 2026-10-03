@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "eventType": "douyin_cover_update",
+  "runId": "REPLACE_WITH_RUN_ID",
+  "attemptId": "REPLACE_WITH_ATTEMPT_ID",
+  "workId": null,
+  "awemeId": "REPLACE_WITH_REAL_WORK_ID",
+  "title": "REPLACE_WITH_FULL_TITLE",
+  "accountIdentityConfirmed": false,
+  "observedAt": null,
+  "status": "pending",
+  "action": "replace_existing",
+  "submitAccepted": false,
+  "returnedToManagement": false,
+  "slots": {
+    "3:4": {"label": "竖封面3:4", "sourcePath": null, "sourceSha256": null, "sourceDimensions": null, "beforeAssetId": null, "acceptedAssetId": null, "reopenedAssetId": null, "reopenedArtworkMatched": false, "evidencePath": null, "observedAt": null},
+    "4:3": {"label": "横封面4:3", "sourcePath": null, "sourceSha256": null, "sourceDimensions": null, "beforeAssetId": null, "acceptedAssetId": null, "reopenedAssetId": null, "reopenedArtworkMatched": false, "evidencePath": null, "observedAt": null}
+  },
+  "publicProfile": {"sameWorkIdConfirmed": false, "afterFullReload": false, "artworkMatched": false, "titleFullyVisible": false, "nonDesignBlackBars": null, "stretched": null, "assetId": null, "evidencePath": null, "observedAt": null},
+  "error": null,
+  "note": "Record cover operation state only; do not change the work publication state."
+}

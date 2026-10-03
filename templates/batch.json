@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "runId": "REPLACE_WITH_RUN_ID",
+  "platform": "douyin",
+  "account": {"displayName": "REPLACE_WITH_TARGET_ACCOUNT", "identityEvidence": null},
+  "authorizationEvidence": null,
+  "scope": {"publicVideosOnly": true, "skipPrivate": true},
+  "items": [
+    {
+      "awemeId": "REPLACE_WITH_REAL_WORK_ID",
+      "title": "REPLACE_WITH_FULL_TITLE",
+      "workRoot": "REPLACE_WITH_CALLER_WORK_ROOT",
+      "status": "pending",
+      "sources": {
+        "3:4": {"path": "REPLACE_WITH_VERTICAL_PATH", "sha256": null, "width": null, "height": null, "artworkReview": "pending"},
+        "4:3": {"path": "REPLACE_WITH_HORIZONTAL_PATH", "sha256": null, "width": null, "height": null, "artworkReview": "pending"}
+      },
+      "attemptReceipts": [],
+      "blockReason": null
+    }
+  ]
+}
