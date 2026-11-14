@@ -1,0 +1,20 @@
+[
+ {
+  "skill": "moonlit-douyin-cover-updater",
+  "query": "把这 20 条抖音作品的封面换成新版",
+  "should_trigger": true,
+  "expected": "建立队列，逐条给月明看新旧封面对照，批准后提交并回报链接"
+ },
+ {
+  "skill": "moonlit-douyin-cover-updater",
+  "query": "继续换封面，修复这批黑边封面",
+  "should_trigger": true,
+  "expected": "恢复队列，已批准条目验收后继续"
+ },
+ {
+  "skill": "moonlit-douyin-cover-updater",
+  "query": "给新视频做一张封面",
+  "should_trigger": false,
+  "expected": "路由到 moonlit-video-cover"
+ }
+]
