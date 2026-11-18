@@ -4,7 +4,7 @@
   "platform": "douyin",
   "account": {"displayName": "REPLACE_WITH_TARGET_ACCOUNT", "identityEvidence": null},
   "authorizationEvidence": null,
-  "scope": {"publicVideosOnly": true, "skipPrivate": true},
+  "scope": {"publicVideosOnly": true, "skipPrivate": true, "skipCocreated": true},
   "items": [
     {
       "awemeId": "REPLACE_WITH_REAL_WORK_ID",
